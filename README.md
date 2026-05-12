@@ -69,3 +69,9 @@ MOBILE/TABLET VIEW
 <img width="582" height="760" alt="Image" src="https://github.com/user-attachments/assets/85d94f91-fbe8-4964-9147-5ba13ee5ded7" />
 
 DESKTOP VIEW
+
+<img width="1888" height="910" alt="Image" src="https://github.com/user-attachments/assets/447fbde7-e7b3-4bb9-9e79-e353230cbf10" />
+
+<img width="1888" height="911" alt="Image" src="https://github.com/user-attachments/assets/005c42e8-62a9-49da-a5a8-1472f8892516" />
+
+<img width="1888" height="912" alt="Image" src="https://github.com/user-attachments/assets/f23d77f4-9c6e-4d85-a061-f7aed2c59b39" />
