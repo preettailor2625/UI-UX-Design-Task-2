@@ -12,9 +12,7 @@
 
 **MENTOR**: NEELA SANTOSH
 
-**DESCRIPTION**:Here's your 500+ word description written naturally as if you wrote it yourself:
-
----
+**DESCRIPTION**:
 
 ## Project Description: Responsive Webpage Design
 **Task 2 — CODTECH Internship**
