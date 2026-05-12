@@ -54,12 +54,16 @@ I also added a small **device indicator tag** at the bottom-right corner of the 
 
 ### What I Learned
 
-##OUTPUT
-MOBILE/TABLET VIEW
-<img width="583" height="761" alt="Image" src="https://github.com/user-attachments/assets/f038488a-c36a-4e0a-b217-091c279627d0" />
-<img width="582" height="761" alt="Image" src="https://github.com/user-attachments/assets/e4a8fab1-1145-4348-a589-2a90e8d9fdb1" />
-<img width="582" height="760" alt="Image" src="https://github.com/user-attachments/assets/85d94f91-fbe8-4964-9147-5ba13ee5ded7" />
-
 Through this task I gained a much deeper understanding of how responsive design works in practice. I learned how to think in terms of fluid layouts rather than fixed pixel sizes, how to use media queries effectively to target different devices, and how to structure HTML in a clean and semantic way that supports good design. I also improved my skills in CSS Grid and Flexbox which are two of the most powerful tools available for modern web layout design.
 
 Overall this project was a great learning experience and I feel much more confident in my ability to build professional, responsive webpages from scratch using just HTML and CSS.
+
+##OUTPUT
+MOBILE/TABLET VIEW
+<img width="583" height="761" alt="Image" src="https://github.com/user-attachments/assets/f038488a-c36a-4e0a-b217-091c279627d0" />
+
+<img width="582" height="761" alt="Image" src="https://github.com/user-attachments/assets/e4a8fab1-1145-4348-a589-2a90e8d9fdb1" />
+
+<img width="582" height="760" alt="Image" src="https://github.com/user-attachments/assets/85d94f91-fbe8-4964-9147-5ba13ee5ded7" />
+
+DESKTOP VIEW
