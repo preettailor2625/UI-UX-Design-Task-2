@@ -59,7 +59,9 @@ Through this task I gained a much deeper understanding of how responsive design 
 Overall this project was a great learning experience and I feel much more confident in my ability to build professional, responsive webpages from scratch using just HTML and CSS.
 
 ##OUTPUT
+
 MOBILE/TABLET VIEW
+
 <img width="583" height="761" alt="Image" src="https://github.com/user-attachments/assets/f038488a-c36a-4e0a-b217-091c279627d0" />
 
 <img width="582" height="761" alt="Image" src="https://github.com/user-attachments/assets/e4a8fab1-1145-4348-a589-2a90e8d9fdb1" />
